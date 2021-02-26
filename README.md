@@ -4,8 +4,8 @@ This repo is used for the mini projects from Springboard data science training p
 
 ## Table of Contents
 * [API data wrangling](https://github.com/Lina-statistics/Springboard-mini-projects/blob/main/API%20data%20wrangling/api_data_wrangling_mini_project.ipynb)
-     -Use python package *requests* and built-in function to extract and analyze equities data from the Frankfurt Stock Exhange (FSE) through [Qaundl](http://www.quandl.com) website.
-          -<code>keywords: web scraping, request, python</code>
+     -  Use python package *requests* and built-in function to extract and analyze equities data from the Frankfurt Stock Exhange (FSE) through [Qaundl](http://www.quandl.com) website.
+          -  <code>keywords: web scraping, request, python</code>
 * [SQL Mini project](https://github.com/Lina-statistics/Springboard-mini-projects/blob/main/SQL_Mini_project/SQLMiniProject.ipynb)
 Use high-level SQL queries to explore key business questions of Country Club operation
 <code>keywords: SQL, sqlite, pandas, python</code>
