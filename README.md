@@ -7,7 +7,7 @@ This repo is used for the mini projects from Springboard data science training p
      -  Use python package *requests* and built-in function to extract and analyze equities data from the Frankfurt Stock Exhange (FSE) through [Qaundl](http://www.quandl.com) website.
           -  <code>keywords: web scraping, request, python</code>
 * [x] [SQL Mini project](https://github.com/Lina-statistics/Springboard-mini-projects/blob/main/SQL_Mini_project/SQLMiniProject.ipynb)
-     -  Use high-level SQL queries to explore key business questions of Country Club operation
+     -  Use advanced SQL queries to explore key business questions of Country Club operation
           -  <code>keywords: SQL, sqlite, pandas, python</code>
 * [x] [London Housing Case Study](https://github.com/Lina-statistics/Springboard-mini-projects/blob/main/London_Housing_Case_Study/London_housing.ipynb)
      -  Determine which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades
